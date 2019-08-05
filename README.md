@@ -15,9 +15,9 @@ Test Product
 1. Install eclipse or spring tool suite.
 2. Download this project in your system.
 3. Import this project as maven project in eclipse/sts.
-4. Import another project "product" in my same github account as maven project.
+4. Import another project "vkart" in my same github account as maven project.
 5. Run "product" project as spring boot app.
-6. Run current project "vkart" on server.
+6. Run project "vkart" on server.
 7. you can go to http://localhost:8080/vkart/ and navigate yourself to check various functionalities.
 
 Rest Services
